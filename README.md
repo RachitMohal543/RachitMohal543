@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RachitMohal543
-- 👀 I’m interested in Backend Development
+- 👀 I’m interested in Software Development
 - 📫 How to reach me 543rcmohal@gmail.com
 
 <!---
